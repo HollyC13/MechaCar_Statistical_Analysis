@@ -71,4 +71,16 @@ similar.
 ![PSI-Lot 3](/Resources/Del3Lot3.png)
 
 
+### Study Design: MechaCar vs Competition - Deliverable 4
+Metric
+With fluctuating and often rising gas prices, fuel efficiency is a very useful metric and is often a consideration of car buyers.
+
+Null Hypothesis
+There is no statistically significant difference between MechaCar's city fuel efficiency and the city fuel efficiency of similarly sized and powered cars produced by the competition.
+
+Testing
+Two-sample t-test, as it enables us to compare MechaCar's city fuel efficiency to the competition's city fuel efficiency and calculate statistical significance.
+
+Data
+For MechaCar and comparable models, data should include vehicle weight, vehicle length, city miles per gallon, and number of engine cylinders.
 
