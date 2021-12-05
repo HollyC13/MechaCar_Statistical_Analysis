@@ -40,14 +40,14 @@ This table shows the mean, median, variance and standard deviation values for th
 The calculated variance shows all manufacturing lots in total, Lot1 and Lot2 meet the design specification.  The mean and median further indicate the consistency in PSI values for these groups.  Lot3 does not meet the design specification with a calculated variance of 170.29.  A minimum value of 1452 and maximum value of 1542, along with the mean and median, further illustrate how widely the values vary for this group.
 
 
-### T-Tests on Suspension Coils
+### T-Tests on Suspension Coils - Deliverable 3
 One-sample t-tests were performed to determine if there is a statistical difference between the means of our sample dataset and a hypothesized, potential population dataset.  A population mean of 1,500 PSI is used.
 
 
 Total dataset:  Using a significance level of 0.05 percent, a p-value of 0.06 is above significance level.  There is not sufficent evidence to reject the null hypothesis and the
 two means are statistically similar.
 
-![PSI-All](/Resources/Del3PSIAll.png)
+![PSI-All](/Resources/Del3PSIALL.png)
 
 
 
